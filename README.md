@@ -6,7 +6,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 😄 I’m working as a Software Engineer. Hands-on experience with client-server architectures, networking protocols, design REST APIs, web services development and databases access.
 
 - Web Technologies: Node.js, Express, React, Nest, HTML/HTML5, CSS/CSS3, LESS, SASS
-- Databases:PostgreSQL, MySQL
+- Databases:PostgreSQL, MySQL, MongoDB
 - Operating Systems: Windows family, MacOS
 
 - 💬 Ask me about anything, I am happy to help.
