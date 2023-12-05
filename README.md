@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi there, I'm Yulia <img
+<h1 align="center">Hi there, I'm Julia <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
