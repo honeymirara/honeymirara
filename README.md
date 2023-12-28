@@ -7,7 +7,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - Web Technologies: Node.js, Express, React, Redux, RTK Query, Nest.js, HTML/HTML5, CSS/CSS3, LESS, SASS
 - Databases:PostgreSQL, MySQL, MongoDB
-- Operating Systems: Windows family, MacOS
+- Operating Systems: Windows family, MacOS, Linux
 
 - 💬 Ask me about anything, I am happy to help.
 
